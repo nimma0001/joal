@@ -48,4 +48,4 @@ docker run -d \
 
     --joal.ui.path.prefix="HELLOQWER" \
 
-    --joal.ui.secret-token="SECRET_TOKEN"
+    --joal.ui.secret-token="hi"
