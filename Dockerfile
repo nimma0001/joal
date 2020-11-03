@@ -13,7 +13,7 @@ docker run -d \
 
     --spring.main.web-environment=true \
 
-    --server.port="8080" \
+
 
     --joal.ui.path.prefix="HELLOQWER" \
 
